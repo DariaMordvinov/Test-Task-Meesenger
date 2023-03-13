@@ -1,0 +1,104 @@
+{
+    "01-02": [
+        {
+            "from": "01",
+            "to": "02",
+            "text": "Hi, how are you?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "02",
+            "to": "01",
+            "text": "Heeeey",
+            "time": "1678681966378"
+        },
+        {
+            "from": "02",
+            "to": "01",
+            "text": "I'm ok, how about you? We should grab a drink!",
+            "time": "1678682053704"
+        }
+    ],
+    "01-03": [
+        {
+            "from": "01",
+            "to": "03",
+            "text": "What was the movie you mentioned last night?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "03",
+            "to": "01",
+            "text": "Mean girls!! Watch it NOW",
+            "time": "1678682053704"
+        }
+    ],
+    "01-04": [
+        {
+            "from": "01",
+            "to": "04",
+            "text": "Hi, how are you?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "04",
+            "to": "01",
+            "text": "Heeeey",
+            "time": "1678681966378"
+        },
+        {
+            "from": "04",
+            "to": "01",
+            "text": "I'm ok, how about you? We should grab a drink!",
+            "time": "1678682053704"
+        }
+    ],
+    "02-03": [
+        {
+            "from": "02",
+            "to": "03",
+            "text": "What was the movie you mentioned last night?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "03",
+            "to": "02",
+            "text": "Mean girls!! Watch it NOW",
+            "time": "1678682053704"
+        }
+    ],
+    "02-04": [
+        {
+            "from": "04",
+            "to": "02",
+            "text": "Hi, how are you?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "02",
+            "to": "04",
+            "text": "Heeeey",
+            "time": "1678681966378"
+        },
+        {
+            "from": "02",
+            "to": "04",
+            "text": "I'm ok, how about you? We should grab a drink!",
+            "time": "1678682053704"
+        }
+    ],
+    "03-04": [
+        {
+            "from": "04",
+            "to": "03",
+            "text": "What was the movie you mentioned last night?",
+            "time": "1678681662011"
+        },
+        {
+            "from": "03",
+            "to": "04",
+            "text": "Mean girls!! Watch it NOW",
+            "time": "1678682053704"
+        }
+    ]
+}

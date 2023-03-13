@@ -1,0 +1,18 @@
+{
+    "01": {
+        "name": "Dasha",
+        "avatar": "cat.jpg"
+    },
+    "02": {
+        "name": "Andrey",
+        "avatar": "dog.jpeg"
+    },
+    "03": {
+        "name": "Jeff",
+        "avatar": "eagle.jpeg"
+    },
+    "04": {
+        "name": "Maria",
+        "avatar": "dog_in_glasses.png"
+    }
+}
